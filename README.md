@@ -35,7 +35,7 @@ The dashboard integrates multiple datasets to deliver insights on consent volume
 This solution acts as a centralized platform for eConsent performance and audit readiness.
 
 ## 🧩 Dashboard Pages & Features
-** 1️⃣ Consent Usage **
+### 1️⃣ Consent Usage 
 
 Total consents created
 
@@ -49,7 +49,7 @@ Assigned date trends
 
 Pending duration metrics
 
-** 2️⃣ Consent Aging **
+### 2️⃣ Consent Aging 
 
 Aging of pending consents
 
@@ -61,7 +61,7 @@ Aging buckets (30+ / 60+ / 90+ days)
 
 Site-wise pending signature analysis
 
-** 3️⃣ Consent Video **
+### 3️⃣ Consent Video 
 
 Video sessions scheduled vs completed
 
@@ -71,7 +71,7 @@ Average minutes per session
 
 Monthly session trends
 
-** 4️⃣ Consent Signatures **
+### 4️⃣ Consent Signatures 
 
 Total signatures collected
 
@@ -83,7 +83,7 @@ Delivery mode (On-site / Remote / Email / Text)
 
 Document minutes viewed before signing
 
-** 5️⃣ Consent Review Time **
+### 5️⃣ Consent Review Time 
 
 Average review time per signature
 
